@@ -1,4 +1,4 @@
-package fr.soat.pois.asked_features;
+package fr.soat.pois.asked_use_case;
 
 import fr.soat.pois.domain.model.World;
 import fr.soat.pois.infrastructure.input.ParseCSV;
